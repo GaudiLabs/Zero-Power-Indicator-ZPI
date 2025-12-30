@@ -6,5 +6,6 @@ While initially sceptical due to electromagnetism’s relatively high power usag
 
 To wrap our heads around how a flip dot works, we found Larry Builds' flipdot projects and documentation very resourceful. 
 https://github.com/larrybuilds/flip_dot_display
+
 https://www.youtube.com/watch?v=lxuHqYFOjgE&pp=ygUVbGFycnkgYnVpbGRzIGZsaXAgZG90
 (He has made a whole series on Youtube, this is number 1)
